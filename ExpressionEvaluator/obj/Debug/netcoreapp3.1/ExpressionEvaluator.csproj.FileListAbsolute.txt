@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.AssemblyInfoInputs.cache
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.AssemblyInfo.cs
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.exe
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.deps.json
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.runtimeconfig.json
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.runtimeconfig.dev.json
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.dll
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\bin\Debug\netcoreapp3.1\ExpressionEvaluator.pdb
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.dll
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.pdb
+C:\Users\Hp\source\repos\ExpressionEvaluator\ExpressionEvaluator\obj\Debug\netcoreapp3.1\ExpressionEvaluator.genruntimeconfig.cache
